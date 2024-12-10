@@ -14,7 +14,7 @@ Current progress available at <a href="https://www.github.com/sentrywasbored/Spy
 - [x] Implement MPEG2 VOB Support
 - [x] Implement Truemotion1/DUCK AVI Support
 - [x] Implement Truevision Raster Support
-- [ ] Reverse VOL File Format - CURRENTLY WORKING ON
+- [ ] Reverse VOL File Format - Unpacker Made, working on integration
 - [ ] Reverse ATS File Format - CURRENTLY WORKING ON
 - [ ] Implement Conversation System
 - [ ] Implement Map System
